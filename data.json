@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "Hola, soy Stephen Edgardo Pineda Peñarrieta"
+  },
+  "about": {
+    "title": "Sobre de Mí",
+    "text": "Actualmente estoy aprendiendo programación de Scratch, sueño en cada día ser un gran programador y me encantan los videojuegos"
+  },
+
+  "frase": [
+    {
+      "title": "10 meses de experiencia en programación",
+      "subtitle": ""
+    },
+    {
+      "title": "Actualmente, aprendiendo programación en scratch",
+      "subtitle": ""
+    }
+  ],
+
+
+  "skills": {
+    "title": "HABILIDADES",
+    "codeSoftware": [
+      { "name": "SCRATCH", "icon": "imagenes/icons/scratch.png" }
+    ],
+    "aptitudes": [
+      { "name": "Creatividad", "icon": "fa-solid fa-palette" },
+      { "name": "Comunicación", "icon": "fa-solid fa-comment" },
+      { "name": "Honestidad", "icon": "fa-solid fa-heart" },
+      { "name": "Proactividad", "icon": "fa-solid fa-bolt" },
+      { "name": "Responsabilidad", "icon": "fa-solid fa-medal" },
+      { "name": "Trabajo en equipo", "icon": "fa-solid fa-users" }
+    ]
+  },
+
+  "experiencia": [
+    {
+      "title": "Curso de Programación Scratch & AI",
+      "year": "2025",
+      "image": "imagenes/certificados/certificado-scratch.png",
+      "tools": ["Scratch", "Piskel", "Machine Learning for Kids"],
+      "description": "En este curso aprendí los conceptos básicos de programación, como las variables, los bucles, las funciones, los eventos y las condicionales, utilizando la plataforma Scratch. Además, desarrollé mis propios videojuegos y creé diseños personalizados en la plataforma Piskel. También exploré los fundamentos del machine learning, entrenando mis propios modelos en ML for Kids e integrándolos en mis proyectos de Scratch, lo que me permitió combinar creatividad y tecnología de manera práctica e innovadora.",
+      "accomplishments": "Ganador: Proyecto más divertido"
+    }
+  ],
+
+  "proyectos": {
+    "description": "Las principales áreas en las que me desempeño son Desarrollo de Videojuegos en Scratch. Conoce algunos de mis proyectos favoritos a continuación.",
+    "items": [
+      {
+        "category": "Scratch",
+        "title": "Mi versión de Flappy Bird",
+        "description": "En esta versión de flappy bird, tenemos que recolectar monedas.",
+        "image": "imagenes/proyectos/scratch-1.png",
+        "link": "https://scratch.mit.edu/projects/1140233340"
+      },
+      {
+        "category": "Scratch",
+        "title": "Pokemon",
+        "description": "Mi versión del famosa juego 'Pokemon'.",
+        "image": "imagenes/proyectos/pokemon.png",
+        "link": "https://scratch.mit.edu/projects/1127331716"
+      },
+      {
+        "category": "Scratch",
+        "title": "Mario Bros Sophi",
+        "description": "Mi proyecto de graduación está inspirado en Mario Bros.",
+        "image": "imagenes/proyectos/mario.png",
+        "link": "https://scratch.mit.edu/projects/1197930789"
+      }
+    ]
+  },
+
+  "testimonios": [
+    {
+      "text": "Stephen se destacó en la participación de proyectos, demostrando ser una persona responsable y honesta.",
+      "cliente": "Angela Elizalde",
+      "cargo": "Tutor en Punto Code",
+      "image": "imagenes/recomendaciones/tutor.png"
+    },
+    {
+      "text": "Stephen ha demostrado ser una persona muy responsable y disciplinado. Cada día es una oportunidad para aprender sigue avanzando Stephen",
+      "cliente": "Alejandra Lee",
+      "cargo": "Tutor en Punto Code",
+      "image": "imagenes/recomendaciones/companero.png"
+    }
+  ]
+
+
+}
